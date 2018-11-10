@@ -5,6 +5,10 @@ html5的canvas game页面小游戏
 
 原文：http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/
 
+# 效果展示
+
+
+
 想要快速上手HTML5 Canvas小游戏开发？下面通过一个例子来进行手把手教学。
 
 创建画布
